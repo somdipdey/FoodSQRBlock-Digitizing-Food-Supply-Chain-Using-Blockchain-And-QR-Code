@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/somdipdey/Encrypted_QR_Code/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/somdipdey/FoodSQRBlock-Digitizing-Food-Supply-Chain-Using-Blockchain-And-QR-Code/blob/main/LICENSE)
 
 # FoodSQRBlock-Digitizing-Food-Supply-Chain-Using-Blockchain-And-QR-Code
 Code for the paper, "FoodSQRBlock: Digitizing Food Production and the Supply Chain with Blockchain andtheQR Code in the Cloud"
